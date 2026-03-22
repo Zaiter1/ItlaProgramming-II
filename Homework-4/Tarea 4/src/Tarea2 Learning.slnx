@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Learning.Domain/LearningApi.Domain.csproj" Id="3ea181e0-f7b9-493f-aecb-13ab24c2ab48" />
+  <Project Path="Learning.Infraestructure/LearningApi.Infraestructure.csproj" Id="943c0755-724c-430c-a523-7cf447daad4a" />
+  <Project Path="Learning.Persistence/LearningApi.Persistence.csproj" Id="383020ac-3114-4d86-bec7-99ac41f72b4f" />
+  <Project Path="LearningApi.Application/LearningApi.Application.csproj" Id="86ef78d2-db6c-4d61-bb3e-19cb9d4da3e5" />
+  <Project Path="LearningApi/LearningApi.csproj" />
+</Solution>
